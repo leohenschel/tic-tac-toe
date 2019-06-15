@@ -1,0 +1,12 @@
+c:\users\leonardo.ahenschel\source\repos\jogo-da-velha\jogo-da-velha\bin\Debug\jogo-da-velha.exe.config
+c:\users\leonardo.ahenschel\source\repos\jogo-da-velha\jogo-da-velha\bin\Debug\jogo-da-velha.exe
+c:\users\leonardo.ahenschel\source\repos\jogo-da-velha\jogo-da-velha\bin\Debug\jogo-da-velha.pdb
+c:\users\leonardo.ahenschel\source\repos\jogo-da-velha\jogo-da-velha\bin\Debug\jogo-da-velha.xml
+c:\users\leonardo.ahenschel\source\repos\jogo-da-velha\jogo-da-velha\obj\Debug\jogo-da-velha.vbprojAssemblyReference.cache
+c:\users\leonardo.ahenschel\source\repos\jogo-da-velha\jogo-da-velha\obj\Debug\jogo_da_velha.Resources.resources
+c:\users\leonardo.ahenschel\source\repos\jogo-da-velha\jogo-da-velha\obj\Debug\jogo-da-velha.vbproj.GenerateResource.cache
+c:\users\leonardo.ahenschel\source\repos\jogo-da-velha\jogo-da-velha\obj\Debug\jogo-da-velha.vbproj.CoreCompileInputs.cache
+c:\users\leonardo.ahenschel\source\repos\jogo-da-velha\jogo-da-velha\obj\Debug\jogo-da-velha.exe
+c:\users\leonardo.ahenschel\source\repos\jogo-da-velha\jogo-da-velha\obj\Debug\jogo-da-velha.xml
+c:\users\leonardo.ahenschel\source\repos\jogo-da-velha\jogo-da-velha\obj\Debug\jogo-da-velha.pdb
+C:\Users\leonardo.ahenschel\source\repos\jogo-da-velha\jogo-da-velha\obj\Debug\jogo_da_velha.JogodaVelha.resources
